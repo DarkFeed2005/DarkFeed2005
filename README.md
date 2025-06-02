@@ -75,19 +75,19 @@
 
 ### 🏮 &nbsp;Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,dart,cpp,cs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,dart,cpp,cs,kotlin,php,typescript&theme=dark)](https://skillicons.dev)
 
 ### 🎆 &nbsp;Frameworks 
 
-[![My Skills](https://skillicons.dev/icons?i=spring,bootstrap,tailwind,nodejs,angular,react,vite,threejs,expressjs,flutter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,bootstrap,tailwind,nodejs,angular,react,vite,threejs,expressjs,flutter,vue,spring,nginx&theme=dark)](https://skillicons.dev)
 
 ### 🗃 &nbsp;Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,hibernate&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,hibernate&theme=dark)](https://skillicons.dev)
 
 ### ☁️ &nbsp;Cloud Computing
 
-[![My Skills](https://skillicons.dev/icons?i=aws,netlify&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,netlify,azure,gcp&theme=dark)](https://skillicons.dev)
 
 ### 🧰 &nbsp;Version Controlls
 
@@ -95,7 +95,7 @@
 
 ### 🛠 &nbsp;Developing Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,visualstudio,androidstudio,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,visualstudio,androidstudio,postman,docker,xd,webstorm,pycharm&theme=dark)](https://skillicons.dev)
 
 ### 🖌️ &nbsp;Designing Tools 
 
