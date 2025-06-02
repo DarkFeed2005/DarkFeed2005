@@ -74,12 +74,10 @@
 ---
 
 ### 🏮 &nbsp;Languages 
-
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,dart,cpp,cs,kotlin,php,typescript&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,dart,cpp,cs,kotlin,php,typescript&perline=7)](https://skillicons.dev)
 
 ### 🎆 &nbsp;Frameworks 
-
-[![My Skills](https://skillicons.dev/icons?i=spring,bootstrap,tailwind,nodejs,angular,react,vite,threejs,expressjs,flutter,vue,spring,nginx&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,bootstrap,tailwind,nodejs,angular,react,vite,threejs,expressjs,flutter,vue,spring,nginx&perline=7)](https://skillicons.dev)
 
 ### 🗃 &nbsp;Databases
 
