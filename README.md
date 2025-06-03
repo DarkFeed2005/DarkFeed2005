@@ -98,9 +98,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=figma,photoshop,ae,pr&theme=dark)](https://skillicons.dev)
 
-### 🎮 &nbsp;Game Developing Tools
+### 🎮 &nbsp;penetration Testing Tools
 
-[![My Skills](https://skillicons.dev/icons?i=blender,unreal&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,raspberrypi,redhat,linux,ubuntu,arch,debian,docker,cloudflare,ansible,githubactions,Redis&perline=6)](https://skillicons.dev)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
