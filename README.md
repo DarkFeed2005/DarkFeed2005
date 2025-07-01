@@ -106,7 +106,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.youtube.com/@kalanayasassri" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="Kpolitx" height="50" width="50" /></a>
+<a href="https://www.youtube.com/@kalanayasassri" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/youtube.svg" alt="Kpolitx" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/kalana-yasassri-684591251/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Kalana Yasassri" height="50" width="50" /></a>
 <a href="https://stackoverflow.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Kalana Yasassri" height="50" width="50" /></a>
 <a href="https://web.facebook.com/kalana.yasassri.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kalana yasassri" height="50" width="50" /></a>
