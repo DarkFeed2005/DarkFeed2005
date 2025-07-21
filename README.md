@@ -66,7 +66,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/darkfeed2005/github-readme-stats">
     <img alt="Kalana yasassri's's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=DarkFeed2005&theme=darkhub" height="200px"/>
   </a>
 </p>
