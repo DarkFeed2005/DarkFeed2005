@@ -96,7 +96,7 @@
 ### 🛠 &nbsp;Developing Tools 
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,visualstudio,flutter,androidstudio,postman,docker,xd,webstorm,pycharm,gitlab,firebase,kubernetes,terraform,anaconda,arduino,codepen,wordpress&perline=6)](https://github.com/darkfeed2005)
 
-### 🖌️ &nbsp;Designing Tool
+### 🖌️ &nbsp;Designing Tools
 
 [![My Skills](https://skillicons.dev/icons?i=figma,photoshop,ae,pr,sketchup,blender,autocad,materialui&perline=6)](https://github.com/darkfeed2005)
 
