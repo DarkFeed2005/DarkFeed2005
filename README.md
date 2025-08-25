@@ -23,11 +23,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Rust**
 
 - 🧑‍🎓 I’m an Undergraduate at **LNBTI**
 
-- 💬 Ask me about **Java,Python,C++,Kali Linux**
+- 💬 Ask me about **Go,Java,Python,C++,Kali Linux**
 
 - 📫 How to reach me **kalanayasassrisathruwan123@gmail.com**
   
