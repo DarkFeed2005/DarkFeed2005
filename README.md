@@ -23,7 +23,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **NestJs**
 
 - 🧑‍🎓 I’m an Undergraduate at **LNBTI**
 
