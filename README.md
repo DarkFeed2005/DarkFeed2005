@@ -79,7 +79,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,dart,c,cpp,cs,kotlin,php,typescript,go,rust&perline=6)](https://github.com/darkfeed2005)
 
 ### 🎆 &nbsp;Frameworks 
-[![My Skills](https://skillicons.dev/icons?i=spring,bootstrap,tailwind,nodejs,angular,react,vite,threejs,expressjs,vue,laravel,nginx,flask,django,electron,dotnet&perline=6)](https://github.com/darkfeed2005)
+[![My Skills](https://skillicons.dev/icons?i=spring,bootstrap,tailwind,nodejs,angular,react,vite,threejs,expressjs,vue,laravel,nginx,flask,django,electron,dotnet,nestjs&perline=6)](https://github.com/darkfeed2005)
 
 ### 🗃 &nbsp;Databases
 
