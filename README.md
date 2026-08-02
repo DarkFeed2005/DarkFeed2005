@@ -27,7 +27,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **LNBTI**
 
-- 💬 Ask me about **Go,Java,Python,C++,Kali Linux**
+- 💬 Ask me about **web programming,Golang,Rust,Java,Python,C++,Kali Linux**
 
 - 📫 How to reach me **kalanayasassrisathruwan123@gmail.com**
   
